@@ -1,5 +1,5 @@
 # FbreaderJ
-this project port FBreaderJ to Andorid Studio IDE
+This project port FBreaderJ to Andorid Studio IDE
 
 ## Introduce
 I port the office FBeaderJ to Android Studio IDE because the office one can't comply on Android Studio Directly.
