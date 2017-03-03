@@ -11,4 +11,4 @@ I port the office FBeaderJ to Android Studio IDE because the office one can't co
 * gradle files
 
 ## note
-The project only test and run on as2.2, sdk24 and ndk13
+The project only test and run on as2.3, sdk25 and ndk14
