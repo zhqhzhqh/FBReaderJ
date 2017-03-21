@@ -344,7 +344,7 @@ public final class FBReader extends FBReaderMainActivity implements ZLApplicatio
 	}
 
     /**
-     * 强制显示menu菜单
+     * force display menu to virtual keyboard
      */
     private void setOverflowShowingAlways() {
         try {
